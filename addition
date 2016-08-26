@@ -1,0 +1,17 @@
+
+public Class addition{
+
+  public int[] nums;
+  public addition(int[] val){
+    num[]=val[];
+  }
+  
+  public static void main(String[] args){
+    int sum=0;
+    for (int i =0; i<num.length; i++)
+      sum+=num[i];
+      
+    System.out.print(sum);
+  }
+}
+    
